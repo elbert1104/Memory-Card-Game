@@ -1,0 +1,18 @@
+FEATURES
+Reset/Play Again button
+	- reset everything (all the slates, all the cards should flip back)
+	- shuffles / rerenders
+
+If you win
+	- modal pops up 
+
+timer
+
+turn counter
+
+card
+	-if you click on the card, card flips over
+		-if it matches, then card always face up.
+		-if it doesn't match then the cards get flipped over back (face down).
+	-back cover
+	-image
